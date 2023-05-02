@@ -2,6 +2,8 @@ Spring Study
 =============
 > 스프링 스터디 입니다.
 
+![스프링](https://blog.kakaocdn.net/dn/cIyQnr/btrFnBA41CC/XzqfKhwh0dknviFyAlPLj0/img.png)
+
 ## :arrow_forward: 스터디 개요
 * **주제** : Spring
 * **목표** : 강의 완강 또는 책 완독
