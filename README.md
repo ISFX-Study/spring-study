@@ -28,7 +28,7 @@ Spring Study
 | 3 | 3주차 | 2023-05-15 | 2023-05-21 | :white_check_mark: | :white_check_mark: |
 | 4 | 4주차 | 2023-05-22 | 2023-05-28 | :white_check_mark: | :white_check_mark: |
 | 5 | 5주차 | 2023-05-29 | 2023-06-04 | :white_check_mark: | :white_check_mark: |
-| 6 | 6주차 | 2023-06-05 | 2023-06-11 | :white_check_mark: |  |
+| 6 | 6주차 | 2023-06-05 | 2023-06-11 | :white_check_mark: | :white_check_mark: |
 | 7 | 7주차 | 2023-06-12 | 2023-06-18 |  |  |
 | 8 | 8주차 | 2023-06-19 | 2023-06-25 |  |  |
 | 9 | 9주차 | 2023-06-26 | 2023-07-02 |  |  |
