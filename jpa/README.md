@@ -4,14 +4,14 @@ JPA, 스프링 Data JPA Study
 
 ![스프링DataJPA](https://blog.kakaocdn.net/dn/Sn2Dj/btq0nPrl873/ACS7qrimAoVuTS8oriAnv0/img.jpg)
 
-## :arrow_forward: 스터디 개요
+## :triangular_flag_on_post:  스터디 개요
 * **주제** : JPA, 스프링 Data JPA
 * **목표** : 책([JPA 퀵스타트](https://product.kyobobook.co.kr/detail/S000001891098)) 완독
 * **기간** : 2023-06-26 ~ 
 * **참가자(2명)** : 박은주, 고현아
 * **스터디 시간** : 2주 또는 1주마다 오프라인 만남
 
-##  :arrow_forward: 스터디 진행 방향
+## :triangular_flag_on_post: 스터디 진행 방향
 * 각자 공부한 결과물을 주차별 폴더에 문서로 commit 하면 됩니다.
   * .md파일을 사용
   * 작성예시) 폴더명_이름.md
@@ -20,7 +20,7 @@ JPA, 스프링 Data JPA Study
 * 결과물에 대한 질문사항은 이슈를 이용합니다.
 * 세부 일정 및 진행 방향은 추후 변경 될 수도 있습니다.
 
-## :arrow_forward: 스터디 세부 일정
+## :triangular_flag_on_post: 스터디 세부 일정
 | 순번 | 목차              | 시작일자 | 종료일자 | 박은주 | 고현아 |
 | ------: | :---------------| -------|-------|:-------:|:-------:|
 | 1 | 1주차 | 2023-06-26 | 2023-07-02 |  |  |
@@ -32,5 +32,5 @@ JPA, 스프링 Data JPA Study
 | 7 | 7주차 | 2023-08-07 | 2023-08-13 |  |  |
 | 8 | 8주차 | 2023-08-14 | 2023-08-20 |  |  |
 
-## :arrow_forward: 기타
+## :triangular_flag_on_post:  기타
 
